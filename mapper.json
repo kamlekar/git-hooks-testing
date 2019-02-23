@@ -1,0 +1,6 @@
+{
+    "git-hooks-testing": [{
+        "ref_type_filter": ["tag"],
+        "branch_filter": ["master"]
+    }]
+}
